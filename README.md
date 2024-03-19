@@ -1,4 +1,4 @@
-# ProjectsPIot2024
+# Estación meteorologica
 ## Integrantes
 
 - Luis Armando Largo Ramirez
