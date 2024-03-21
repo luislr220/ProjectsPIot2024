@@ -14,3 +14,7 @@ de clima. Esto tiene el objetivo de poder tener datos mas precios de el lugar do
 |1|Node-RED|1.3.5|Plataforma de programación para conectar dispositivos de hardware|
 |2|MQTT|5.0|Protocolo de mensajería para IoT|
 |3|Arduino IDE|1.8.15|Entorno de desarrollo integrado para programar placas Arduino|
+
+
+## Prototipo
+## Diagarama
