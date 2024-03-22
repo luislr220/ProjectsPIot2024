@@ -19,7 +19,7 @@ de clima. Esto tiene el objetivo de poder tener datos mas precios de el lugar do
 ## Prototipo
 ![prototipo](https://github.com/luislr220/ProjectsPIot2024/assets/114530204/dc14c2c9-b9d9-4322-8250-cf4a5bd9b6dc)
 
-## Diagarama
+## Diagrama
 <img width="562" alt="image" src="https://github.com/luislr220/ProjectsPIot2024/assets/114530204/61fbea87-7180-4a7c-a211-3a05f75c383b">
 <br>
 
