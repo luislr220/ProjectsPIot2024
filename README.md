@@ -23,7 +23,7 @@ de clima. Esto tiene el objetivo de poder tener datos mas precios de el lugar do
 <img width="562" alt="image" src="https://github.com/luislr220/ProjectsPIot2024/assets/114530204/61fbea87-7180-4a7c-a211-3a05f75c383b">
 <br>
 
-El potenciometro es usao como un sensor falso ocupando el lugar del BMP180, ya que wokwi no tiene este tipo de sensor, al igual que el lcd puede varias, en este caso se hizo así debido a como se le explico en el transcurso de la semana que no contabamos con los materiales y el efectivo necesario para realizar el prototipo, ya que lo que teniamos el año pasado se perdio.
+El potenciómetro se utiliza como un sensor simulado, ocupando el lugar del BMP180. Esto se debe a que Wokwi no dispone de este tipo de sensor. De manera similar, la pantalla LCD puede variar. En este caso, tomamos esta decisión debido a las limitaciones de materiales y recursos económicos para construir el prototipo. Lamentablemente, lo que teníamos el año pasado se perdió.
 
 ### Conexiones
 | Componente    | Descripción                                     | Conexión                                           |
